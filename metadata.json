@@ -1,0 +1,5 @@
+{
+  "name": "Custom Web App",
+  "description": "A custom web application built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
